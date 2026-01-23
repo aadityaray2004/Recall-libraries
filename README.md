@@ -3,7 +3,7 @@
 This repository is a quick-recall reference for essential Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) libraries.
 It is designed for revision, interviews, and fast refresh before projects.
 
-##### 🎯 Purpose of This Repository
+#### 🎯 Purpose of This Repository
 
 Quickly recall what each AI library is used for : 
 
