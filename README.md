@@ -1,9 +1,9 @@
-### 🧠 Basic AI Libraries – Recall Repository
+## 🧠 Basic AI Libraries – Recall Repository
 
 This repository is a quick-recall reference for essential Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) libraries.
 It is designed for revision, interviews, and fast refresh before projects.
 
-#### 🎯 Purpose of This Repository
+### 🎯 Purpose of This Repository
 
 Quickly recall what each AI library is used for : 
 
@@ -13,7 +13,8 @@ Quickly recall what each AI library is used for :
 
 - Act as a cheat sheet before coding or interviews
 
-#### 🧱 Core Python Libraries
+### 🧱 Core Python Libraries
+
 🔹 NumPy
 
 - Numerical computing
@@ -30,7 +31,8 @@ Quickly recall what each AI library is used for :
 
 - Handling missing and structured data
 
-#### 📊 Data Visualization Libraries
+### 📊 Data Visualization Libraries
+
 🔹 Matplotlib
 
 - Basic plotting
